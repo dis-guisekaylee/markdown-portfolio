@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+* Ice cream
+  * Chocolate
+  * Neopolitan
+* Animals
+  * Cats
+  * Horses
+  * Birds
+* Video games
+  * Final Fantasy XIV Online
+  * Animal Crossing
+  * Pokemon
