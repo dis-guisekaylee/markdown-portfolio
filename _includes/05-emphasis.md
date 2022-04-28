@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm a student at **devCodeCamp** right now and am studying **web development**. We're learning stuff like **JavaScript**, **Node.js**, and **HTML** and **CSS**. We're also learning quite a bit of **React.js** but it's *really* challenging for me so far!
